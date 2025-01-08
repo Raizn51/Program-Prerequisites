@@ -4,6 +4,7 @@ class Add_Two_Numbers
 	public static void main(String [] args)
 	{
 		Scanner sc = new Scanner(System.in);
+		System.out.println("Welcome to Program for adding of two numbers");
 		System.out.print("Enter the First Number	:	");
 		int first_no=sc.nextInt();
 		System.out.print("Enter the Second Number	:	");
